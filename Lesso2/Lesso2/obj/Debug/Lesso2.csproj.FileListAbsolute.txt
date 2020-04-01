@@ -1,0 +1,7 @@
+C:\Users\Vekto\OneDrive\Рабочий стол\C-hsarp\Lesso2\Lesso2\bin\Debug\Lesso2.exe.config
+C:\Users\Vekto\OneDrive\Рабочий стол\C-hsarp\Lesso2\Lesso2\bin\Debug\Lesso2.exe
+C:\Users\Vekto\OneDrive\Рабочий стол\C-hsarp\Lesso2\Lesso2\bin\Debug\Lesso2.pdb
+C:\Users\Vekto\OneDrive\Рабочий стол\C-hsarp\Lesso2\Lesso2\obj\Debug\Lesso2.csprojAssemblyReference.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\C-hsarp\Lesso2\Lesso2\obj\Debug\Lesso2.csproj.CoreCompileInputs.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\C-hsarp\Lesso2\Lesso2\obj\Debug\Lesso2.exe
+C:\Users\Vekto\OneDrive\Рабочий стол\C-hsarp\Lesso2\Lesso2\obj\Debug\Lesso2.pdb
