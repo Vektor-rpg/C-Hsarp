@@ -42,7 +42,7 @@ namespace home_task_3
 
     class Program
     {
-        static void Main(string[] args)
+        public void ComplexNum()
         {
             Print("Рассмотрим результат работы структуры:");
 
@@ -71,6 +71,8 @@ namespace home_task_3
 
             
         }
+
+        
     }
 }
 
