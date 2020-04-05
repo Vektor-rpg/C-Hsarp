@@ -1,0 +1,7 @@
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 3\home task 3\bin\Debug\home task 3.exe.config
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 3\home task 3\bin\Debug\home task 3.exe
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 3\home task 3\bin\Debug\home task 3.pdb
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 3\home task 3\obj\Debug\home task 3.csprojAssemblyReference.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 3\home task 3\obj\Debug\home task 3.csproj.CoreCompileInputs.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 3\home task 3\obj\Debug\home task 3.exe
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 3\home task 3\obj\Debug\home task 3.pdb
