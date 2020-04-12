@@ -1,5 +1,5 @@
 ﻿using System;
-
+using static home_task_4. View;
 
 namespace home_task_4
 {
@@ -27,20 +27,20 @@ namespace home_task_4
             Random random = new Random();
             int result;
 
-            Console.WriteLine("Вас приветствует программа подсчёта пар элементов, в которых хотя бы одно число делится на 3.");
-            Console.Write("\nВ следующем массиве [ ");
+            Print("Вас приветствует программа подсчёта пар элементов, в которых хотя бы одно число делится на 3.");
+            Print("В следующем массиве [ ");
             for (int i = 0; i < arrayLength; i++)
             {
                 myArray[i] = random.Next(-10000, 10000);
                 Console.Write(myArray[i] + ", ");
             }
-            Console.WriteLine("\b\b ]\n");
+           Print("\b\b ]\n");
 
             result = GetNumber(myArray, arrayLength);
 
-            Console.WriteLine($"Количество пар: {result}");
+            Print($"Количество пар: {result}");
 
-            Console.ReadKey();
+            Pause();
         }
     }
 }
