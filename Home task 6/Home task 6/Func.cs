@@ -10,12 +10,12 @@ using System.Threading.Tasks;
 namespace Home_task_6
 {
    
-    public delegate double Fun(double a, double x);
+    public delegate double fun(double a, double x);
 
     class Func
     {
  
-        public static void Table(Fun F, double a, double x, double b)
+        public static void Table(fun F, double a, double x, double b)
         {
             Console.WriteLine("----- A ------- X -------- Y -----");
             while (x <= b)
@@ -41,10 +41,10 @@ namespace Home_task_6
 
             Console.WriteLine("Таблица функции a*x^2:");
            
-            Table(new Fun(MyFunc), -1.5, -2, 2);
+            Table(new fun(MyFunc), -1.5, -2, 2);
 
             Console.WriteLine("Таблица функции a*sin(x):");
-            Table(new Fun(MyFunc), 3, -2, 2);
+            Table(new fun(MyFunc), 3, -2, 2);
 
             Console.ReadKey();
         }
