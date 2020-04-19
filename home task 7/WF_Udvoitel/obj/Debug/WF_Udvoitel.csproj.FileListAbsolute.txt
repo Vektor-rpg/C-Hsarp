@@ -1,0 +1,20 @@
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe.config
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\bin\Debug\WF_Udvoitel.pdb
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csprojAssemblyReference.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.Form1.resources
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.Properties.Resources.resources
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.GenerateResource.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.CoreCompileInputs.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.exe
+C:\Users\Vekto\OneDrive\Рабочий стол\CSharpLevel1-3227249b0d05ef8da8474149381a6df91053772b\CSharpLevel1-master\Lesson7\WF_Udvoitel\obj\Debug\WF_Udvoitel.pdb
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe.config
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\bin\Debug\WF_Udvoitel.pdb
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csprojAssemblyReference.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\obj\Debug\WF_Udvoitel.Form1.resources
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\obj\Debug\WF_Udvoitel.Properties.Resources.resources
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.GenerateResource.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.CoreCompileInputs.cache
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\obj\Debug\WF_Udvoitel.exe
+C:\Users\Vekto\OneDrive\Рабочий стол\C#\C-Hsarp\home task 7\WF_Udvoitel\obj\Debug\WF_Udvoitel.pdb
